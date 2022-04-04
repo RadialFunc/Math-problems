@@ -11,4 +11,4 @@ for n in range (2002, 2022):
 		f= open(f'AMC10/A/{n}/{problem}.png', 'x')
 		f = open(f'AMC10/A/{n}/{problem}.png', 'wb')
 		f.write(img_data)
-
+print('Hi rohan, this is a test and i dont know what im doing!');
